@@ -22,4 +22,5 @@ if (dineroCofla>=0.6 && dineroCofla< 1){
     alert ("Te alcanza para el helado de conf o el pote de 1/4, y tu vuelto es: "+vuelto);
 } else {
     alert("No hay plata");
+    alert ('hola');
 }
